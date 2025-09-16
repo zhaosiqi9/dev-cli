@@ -2,7 +2,7 @@ package org.dromara.system.dubbo;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.dubbo.config.annotation.DubboService;
-import org.dromara.system.api.RemoteConfigService;
+import org.dromara.system.api.dubbo.RemoteConfigService;
 import org.dromara.system.service.ISysConfigService;
 import org.springframework.stereotype.Service;
 

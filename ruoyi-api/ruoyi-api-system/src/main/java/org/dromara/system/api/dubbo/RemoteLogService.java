@@ -1,4 +1,4 @@
-package org.dromara.system.api;
+package org.dromara.system.api.dubbo;
 
 import org.dromara.system.api.domain.bo.RemoteLogininforBo;
 import org.dromara.system.api.domain.bo.RemoteOperLogBo;

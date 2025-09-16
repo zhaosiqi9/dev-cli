@@ -2,7 +2,7 @@ package org.dromara.system.dubbo;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.dubbo.config.annotation.DubboService;
-import org.dromara.system.api.RemotePermissionService;
+import org.dromara.system.api.dubbo.RemotePermissionService;
 import org.dromara.system.service.ISysPermissionService;
 import org.springframework.stereotype.Service;
 

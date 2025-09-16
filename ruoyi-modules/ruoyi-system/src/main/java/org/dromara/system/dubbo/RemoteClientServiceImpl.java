@@ -3,7 +3,7 @@ package org.dromara.system.dubbo;
 import lombok.RequiredArgsConstructor;
 import org.apache.dubbo.config.annotation.DubboService;
 import org.dromara.common.core.utils.MapstructUtils;
-import org.dromara.system.api.RemoteClientService;
+import org.dromara.system.api.dubbo.RemoteClientService;
 import org.dromara.system.api.domain.vo.RemoteClientVo;
 import org.dromara.system.domain.vo.SysClientVo;
 import org.dromara.system.service.ISysClientService;

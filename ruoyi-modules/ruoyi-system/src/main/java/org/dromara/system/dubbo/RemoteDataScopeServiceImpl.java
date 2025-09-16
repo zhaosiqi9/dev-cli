@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 import org.apache.dubbo.config.annotation.DubboService;
 import org.dromara.common.core.constant.CacheNames;
 import org.dromara.common.core.utils.StreamUtils;
-import org.dromara.system.api.RemoteDataScopeService;
+import org.dromara.system.api.dubbo.RemoteDataScopeService;
 import org.dromara.system.domain.SysDept;
 import org.dromara.system.domain.SysRoleDept;
 import org.dromara.system.mapper.SysDeptMapper;

@@ -20,7 +20,7 @@ import org.dromara.common.core.exception.ServiceException;
 import org.dromara.common.core.utils.ValidatorUtils;
 import org.dromara.common.json.utils.JsonUtils;
 import org.dromara.common.satoken.utils.LoginHelper;
-import org.dromara.system.api.RemoteUserService;
+import org.dromara.system.api.dubbo.RemoteUserService;
 import org.dromara.system.api.domain.vo.RemoteClientVo;
 import org.dromara.system.api.model.XcxLoginUser;
 import org.springframework.stereotype.Service;

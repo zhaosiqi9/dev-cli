@@ -1,4 +1,4 @@
-package org.dromara.system.api;
+package org.dromara.system.api.dubbo;
 
 /**
  * 数据权限服务

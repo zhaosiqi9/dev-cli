@@ -6,7 +6,7 @@ import org.dromara.common.core.constant.CacheConstants;
 import org.dromara.common.core.service.DictService;
 import org.dromara.common.core.utils.StreamUtils;
 import org.dromara.common.core.utils.StringUtils;
-import org.dromara.system.api.RemoteDictService;
+import org.dromara.system.api.dubbo.RemoteDictService;
 import org.dromara.system.api.domain.vo.RemoteDictDataVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

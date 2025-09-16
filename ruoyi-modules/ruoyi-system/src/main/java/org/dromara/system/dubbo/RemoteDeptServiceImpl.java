@@ -3,7 +3,7 @@ package org.dromara.system.dubbo;
 import cn.hutool.core.bean.BeanUtil;
 import lombok.RequiredArgsConstructor;
 import org.apache.dubbo.config.annotation.DubboService;
-import org.dromara.system.api.RemoteDeptService;
+import org.dromara.system.api.dubbo.RemoteDeptService;
 import org.dromara.system.api.domain.vo.RemoteDeptVo;
 import org.dromara.system.domain.vo.SysDeptVo;
 import org.dromara.system.service.ISysDeptService;

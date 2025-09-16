@@ -5,7 +5,7 @@ import org.apache.dubbo.config.annotation.DubboReference;
 import org.dromara.common.translation.annotation.TranslationType;
 import org.dromara.common.translation.constant.TransConstant;
 import org.dromara.common.translation.core.TranslationInterface;
-import org.dromara.system.api.RemoteUserService;
+import org.dromara.system.api.dubbo.RemoteUserService;
 
 /**
  * 用户昵称翻译实现

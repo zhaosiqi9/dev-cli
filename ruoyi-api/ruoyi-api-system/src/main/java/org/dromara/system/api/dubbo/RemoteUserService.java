@@ -1,4 +1,4 @@
-package org.dromara.system.api;
+package org.dromara.system.api.dubbo;
 
 import org.dromara.common.core.exception.ServiceException;
 import org.dromara.common.core.exception.user.UserException;

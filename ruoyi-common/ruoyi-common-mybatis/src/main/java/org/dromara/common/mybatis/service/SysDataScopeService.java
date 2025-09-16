@@ -1,7 +1,7 @@
 package org.dromara.common.mybatis.service;
 
 import org.apache.dubbo.config.annotation.DubboReference;
-import org.dromara.system.api.RemoteDataScopeService;
+import org.dromara.system.api.dubbo.RemoteDataScopeService;
 import org.springframework.stereotype.Service;
 
 /**

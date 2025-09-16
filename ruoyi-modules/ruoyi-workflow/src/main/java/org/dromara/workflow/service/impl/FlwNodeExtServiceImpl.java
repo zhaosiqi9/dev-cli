@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.json.utils.JsonUtils;
-import org.dromara.system.api.RemoteDictService;
+import org.dromara.system.api.dubbo.RemoteDictService;
 import org.dromara.system.api.domain.vo.RemoteDictTypeVo;
 import org.dromara.warm.flow.ui.service.NodeExtService;
 import org.dromara.warm.flow.ui.vo.NodeExt;

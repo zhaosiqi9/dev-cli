@@ -6,7 +6,7 @@ import org.apache.dubbo.config.annotation.DubboService;
 import org.dromara.common.core.constant.SystemConstants;
 import org.dromara.common.mybatis.core.page.PageQuery;
 import org.dromara.common.mybatis.core.page.TableDataInfo;
-import org.dromara.system.api.RemoteTaskAssigneeService;
+import org.dromara.system.api.dubbo.RemoteTaskAssigneeService;
 import org.dromara.system.api.domain.bo.RemoteTaskAssigneeBo;
 import org.dromara.system.api.domain.vo.RemoteTaskAssigneeVo;
 import org.dromara.system.domain.bo.SysDeptBo;
