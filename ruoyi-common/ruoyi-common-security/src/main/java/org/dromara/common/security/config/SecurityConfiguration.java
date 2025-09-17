@@ -6,7 +6,7 @@ import cn.dev33.satoken.httpauth.basic.SaHttpBasicUtil;
 import cn.dev33.satoken.interceptor.SaInterceptor;
 import cn.dev33.satoken.same.SaSameUtil;
 import cn.dev33.satoken.util.SaResult;
-import org.dromara.common.core.constant.HttpStatus;
+import com.ruoyi.common.base.constant.HttpStatus;
 import org.dromara.common.core.utils.SpringUtils;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.context.annotation.Bean;

@@ -3,7 +3,7 @@ package org.dromara.common.sms.handler;
 import cn.hutool.http.HttpStatus;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.sms4j.comm.exception.SmsBlendException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

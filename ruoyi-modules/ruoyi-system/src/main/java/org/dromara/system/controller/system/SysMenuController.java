@@ -7,7 +7,7 @@ import cn.hutool.core.lang.tree.Tree;
 import lombok.RequiredArgsConstructor;
 import org.dromara.common.core.constant.SystemConstants;
 import org.dromara.common.core.constant.TenantConstants;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.log.annotation.Log;
 import org.dromara.common.log.enums.BusinessType;

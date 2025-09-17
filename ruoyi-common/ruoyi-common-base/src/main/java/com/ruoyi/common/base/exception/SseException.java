@@ -1,4 +1,4 @@
-package org.dromara.common.core.exception;
+package com.ruoyi.common.base.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

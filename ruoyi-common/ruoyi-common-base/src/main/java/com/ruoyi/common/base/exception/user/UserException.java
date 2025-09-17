@@ -1,4 +1,4 @@
-package org.dromara.common.core.exception.user;
+package com.ruoyi.common.base.exception.user;
 
 import org.dromara.common.core.exception.base.BaseException;
 

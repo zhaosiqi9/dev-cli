@@ -2,7 +2,7 @@ package org.dromara.common.sse.controller;
 
 import cn.dev33.satoken.stp.StpUtil;
 import lombok.RequiredArgsConstructor;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.common.satoken.utils.LoginHelper;
 import org.dromara.common.sse.core.SseEmitterManager;
 import org.dromara.common.sse.dto.SseMessageDto;

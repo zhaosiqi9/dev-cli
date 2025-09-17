@@ -1,7 +1,7 @@
 package org.dromara.gateway.utils;
 
 import cn.hutool.core.util.ObjectUtil;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.json.utils.JsonUtils;
 import org.dromara.gateway.filter.WebCacheRequestFilter;

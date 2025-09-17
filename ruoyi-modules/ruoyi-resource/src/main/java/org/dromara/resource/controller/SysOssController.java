@@ -4,7 +4,7 @@ package org.dromara.resource.controller;
 import cn.dev33.satoken.annotation.SaCheckPermission;
 import cn.hutool.core.util.ObjectUtil;
 import lombok.RequiredArgsConstructor;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.common.core.validate.QueryGroup;
 import org.dromara.common.web.core.BaseController;
 import org.dromara.common.log.annotation.Log;

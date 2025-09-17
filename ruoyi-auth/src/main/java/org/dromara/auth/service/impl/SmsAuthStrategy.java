@@ -9,7 +9,7 @@ import org.dromara.auth.domain.vo.LoginVo;
 import org.dromara.auth.form.SmsLoginBody;
 import org.dromara.auth.service.IAuthStrategy;
 import org.dromara.auth.service.SysLoginService;
-import org.dromara.common.core.constant.Constants;
+import com.ruoyi.common.base.constant.Constants;
 import org.dromara.common.core.constant.GlobalConstants;
 import org.dromara.common.core.enums.LoginType;
 import org.dromara.common.core.exception.user.CaptchaExpireException;

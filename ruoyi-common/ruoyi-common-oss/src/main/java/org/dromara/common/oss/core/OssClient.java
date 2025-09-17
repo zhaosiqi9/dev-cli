@@ -2,7 +2,7 @@ package org.dromara.common.oss.core;
 
 import cn.hutool.core.io.IoUtil;
 import cn.hutool.core.util.IdUtil;
-import org.dromara.common.core.constant.Constants;
+import com.ruoyi.common.base.constant.Constants;
 import org.dromara.common.core.utils.DateUtils;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.core.utils.file.FileUtils;

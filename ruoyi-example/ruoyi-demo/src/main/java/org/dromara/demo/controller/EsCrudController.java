@@ -1,7 +1,7 @@
 package org.dromara.demo.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.demo.domain.Document;
 import org.dromara.demo.esmapper.DocumentMapper;
 import org.dromara.easyes.core.conditions.select.LambdaEsQueryWrapper;

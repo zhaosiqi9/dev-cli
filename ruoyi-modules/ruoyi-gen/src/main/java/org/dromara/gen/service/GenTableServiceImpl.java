@@ -19,7 +19,7 @@ import org.anyline.proxy.ServiceProxy;
 import org.apache.velocity.Template;
 import org.apache.velocity.VelocityContext;
 import org.apache.velocity.app.Velocity;
-import org.dromara.common.core.constant.Constants;
+import com.ruoyi.common.base.constant.Constants;
 import org.dromara.common.core.exception.ServiceException;
 import org.dromara.common.core.utils.SpringUtils;
 import org.dromara.common.core.utils.StreamUtils;

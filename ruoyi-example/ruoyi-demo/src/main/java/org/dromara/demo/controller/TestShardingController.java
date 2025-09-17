@@ -3,7 +3,7 @@ package org.dromara.demo.controller;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import lombok.RequiredArgsConstructor;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.demo.domain.ShardingOrder;
 import org.dromara.demo.mapper.ShardingOrderMapper;
 import org.springframework.web.bind.annotation.GetMapping;

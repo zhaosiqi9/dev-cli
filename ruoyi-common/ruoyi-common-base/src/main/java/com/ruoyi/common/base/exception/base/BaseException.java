@@ -1,13 +1,12 @@
-package org.dromara.common.core.exception.base;
+package com.ruoyi.common.base.exception.base;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
-import org.dromara.common.core.utils.MessageUtils;
-import org.dromara.common.core.utils.StringUtils;
 
 import java.io.Serial;
+import java.util.Optional;
 
 /**
  * 基础异常
@@ -61,8 +60,9 @@ public class BaseException extends RuntimeException {
     @Override
     public String getMessage() {
         String message = null;
-        if (!StringUtils.isEmpty(code)) {
-            message = MessageUtils.message(code, args);
+        if (!Optional.ofNullable(code).orElse("").isBlank()) {
+//            message = MessageUtils.message(code, args);
+            message = String.format(code, args);
         }
         if (message == null) {
             message = defaultMessage;

@@ -1,4 +1,4 @@
-package org.dromara.common.core.constant;
+package com.ruoyi.common.base.constant;
 
 /**
  * 通用常量信息

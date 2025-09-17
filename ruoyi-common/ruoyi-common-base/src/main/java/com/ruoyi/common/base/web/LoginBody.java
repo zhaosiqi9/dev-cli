@@ -1,4 +1,4 @@
-package org.dromara.common.core.domain.model;
+package com.ruoyi.common.base.web;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;

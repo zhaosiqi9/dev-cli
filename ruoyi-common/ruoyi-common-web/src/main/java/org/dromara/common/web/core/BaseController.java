@@ -1,6 +1,6 @@
 package org.dromara.common.web.core;
 
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 
 /**
  * web层通用数据处理

@@ -1,4 +1,4 @@
-package org.dromara.common.core.constant;
+package com.ruoyi.common.base.constant;
 
 /**
  * 返回状态码

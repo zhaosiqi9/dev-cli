@@ -3,7 +3,7 @@ package org.dromara.gen.util;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import org.apache.velocity.app.Velocity;
-import org.dromara.common.core.constant.Constants;
+import com.ruoyi.common.base.constant.Constants;
 
 import java.util.Properties;
 

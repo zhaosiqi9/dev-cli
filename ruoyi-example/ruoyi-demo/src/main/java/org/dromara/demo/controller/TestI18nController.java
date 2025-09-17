@@ -1,6 +1,6 @@
 package org.dromara.demo.controller;
 
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.dromara.common.core.utils.MessageUtils;
 import lombok.Data;
 import org.hibernate.validator.constraints.Range;

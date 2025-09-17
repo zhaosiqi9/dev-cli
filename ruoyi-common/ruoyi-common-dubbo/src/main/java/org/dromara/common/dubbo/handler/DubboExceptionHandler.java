@@ -2,7 +2,7 @@ package org.dromara.common.dubbo.handler;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.rpc.RpcException;
-import org.dromara.common.core.domain.R;
+import com.ruoyi.common.base.web.R;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 

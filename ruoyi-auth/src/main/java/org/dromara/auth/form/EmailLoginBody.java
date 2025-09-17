@@ -4,7 +4,7 @@ import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.dromara.common.core.domain.model.LoginBody;
+import com.ruoyi.common.base.web.LoginBody;
 
 /**
  * 邮件登录对象
