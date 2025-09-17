@@ -1,4 +1,4 @@
-package org.dromara.common.core.exception.file;
+package com.ruoyi.common.base.exception.file;
 
 import java.io.Serial;
 

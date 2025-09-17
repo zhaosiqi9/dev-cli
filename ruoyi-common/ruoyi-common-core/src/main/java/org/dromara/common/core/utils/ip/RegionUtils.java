@@ -3,7 +3,7 @@ package org.dromara.common.core.utils.ip;
 import cn.hutool.core.io.resource.NoResourceException;
 import cn.hutool.core.io.resource.ResourceUtil;
 import lombok.extern.slf4j.Slf4j;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 import org.dromara.common.core.utils.StringUtils;
 import org.lionsoul.ip2region.xdb.Searcher;
 

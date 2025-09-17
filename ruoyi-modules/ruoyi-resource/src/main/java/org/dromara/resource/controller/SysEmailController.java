@@ -7,7 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import com.ruoyi.common.base.constant.Constants;
 import org.dromara.common.core.constant.GlobalConstants;
 import com.ruoyi.common.base.web.R;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 import org.dromara.common.core.utils.SpringUtils;
 import org.dromara.common.ratelimiter.annotation.RateLimiter;
 import org.dromara.common.web.core.BaseController;

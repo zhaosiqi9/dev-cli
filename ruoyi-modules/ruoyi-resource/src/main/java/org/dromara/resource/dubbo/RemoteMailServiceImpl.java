@@ -3,7 +3,7 @@ package org.dromara.resource.dubbo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.DubboService;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 import org.dromara.common.mail.utils.MailUtils;
 import org.dromara.resource.api.RemoteMailService;
 import org.springframework.stereotype.Service;

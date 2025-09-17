@@ -1,6 +1,6 @@
 package org.dromara.resource.api;
 
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 
 /**
  * 邮件服务

@@ -2,7 +2,7 @@ package org.dromara.common.core.utils;
 
 import org.apache.commons.lang3.time.DateFormatUtils;
 import org.dromara.common.core.enums.FormatsType;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 
 import java.lang.management.ManagementFactory;
 import java.text.ParseException;

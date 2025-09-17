@@ -1,6 +1,6 @@
 package org.dromara.resource.api;
 
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 import org.dromara.resource.api.domain.RemoteFile;
 
 import java.util.List;

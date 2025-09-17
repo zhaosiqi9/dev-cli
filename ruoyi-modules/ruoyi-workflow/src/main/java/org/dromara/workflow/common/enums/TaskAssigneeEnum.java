@@ -2,7 +2,7 @@ package org.dromara.workflow.common.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 
 import java.util.Arrays;
 import java.util.List;

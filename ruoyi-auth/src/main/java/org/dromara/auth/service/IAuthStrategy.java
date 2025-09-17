@@ -1,7 +1,7 @@
 package org.dromara.auth.service;
 
 import org.dromara.auth.domain.vo.LoginVo;
-import org.dromara.common.core.exception.ServiceException;
+import com.ruoyi.common.base.exception.ServiceException;
 import org.dromara.common.core.utils.SpringUtils;
 import org.dromara.system.api.domain.vo.RemoteClientVo;
 

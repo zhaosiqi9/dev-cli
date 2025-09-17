@@ -1,8 +1,8 @@
 package org.dromara.system.api.feign;
 
 import com.ruoyi.common.base.constant.ServiceNameConstants;
-import org.dromara.common.core.exception.ServiceException;
-import org.dromara.common.core.exception.user.UserException;
+import com.ruoyi.common.base.exception.ServiceException;
+import com.ruoyi.common.base.exception.user.UserException;
 import org.dromara.system.api.domain.bo.RemoteUserBo;
 import org.dromara.system.api.domain.vo.RemoteUserVo;
 import org.dromara.system.api.model.LoginUser;
