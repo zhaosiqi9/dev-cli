@@ -1,4 +1,4 @@
-package org.dromara.system.listener;
+package org.dromara.system.application.listener;
 
 import cn.hutool.core.bean.BeanUtil;
 import cn.hutool.core.util.ObjectUtil;
