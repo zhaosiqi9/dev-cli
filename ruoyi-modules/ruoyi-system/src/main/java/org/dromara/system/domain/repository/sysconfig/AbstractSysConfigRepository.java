@@ -13,7 +13,7 @@ public abstract class AbstractSysConfigRepository {
     protected abstract Integer getType();
 
     @PostConstruct
-    public void initRepository() {
+    protected void initRepository() {
         SysConfigRepositoryFactory.REPOSITORY_MAP.put(getType(), this);
     }
 }
