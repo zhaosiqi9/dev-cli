@@ -8,10 +8,10 @@ import org.dromara.common.core.utils.MapstructUtils;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.mybatis.core.page.PageQuery;
 import org.dromara.common.mybatis.core.page.TableDataInfo;
-import org.dromara.system.domain.SysOperLog;
+import org.dromara.system.infrastructure.mysql.po.SysOperLog;
 import org.dromara.system.domain.bo.SysOperLogBo;
 import org.dromara.system.domain.vo.SysOperLogVo;
-import org.dromara.system.mapper.SysOperLogMapper;
+import org.dromara.system.infrastructure.mysql.mapper.SysOperLogMapper;
 import org.dromara.system.application.service.ISysOperLogService;
 import org.springframework.stereotype.Service;
 

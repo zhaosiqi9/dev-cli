@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 import org.dromara.common.core.constant.SystemConstants;
 import org.dromara.common.core.xss.Xss;
 import org.dromara.common.mybatis.core.domain.BaseEntity;
-import org.dromara.system.domain.SysUser;
+import org.dromara.system.infrastructure.mysql.po.SysUser;
 
 /**
  * 用户信息业务对象 sys_user

@@ -1,7 +1,7 @@
 package org.dromara.system.application.service;
 
 import cn.hutool.core.lang.tree.Tree;
-import org.dromara.system.domain.SysMenu;
+import org.dromara.system.infrastructure.mysql.po.SysMenu;
 import org.dromara.system.domain.bo.SysMenuBo;
 import org.dromara.system.domain.vo.RouterVo;
 import org.dromara.system.domain.vo.SysMenuVo;

@@ -9,13 +9,13 @@ import org.dromara.common.core.utils.ObjectUtils;
 import org.dromara.common.core.utils.StringUtils;
 import org.dromara.common.mybatis.core.page.PageQuery;
 import org.dromara.common.mybatis.core.page.TableDataInfo;
-import org.dromara.system.domain.SysNotice;
-import org.dromara.system.domain.SysUser;
+import org.dromara.system.infrastructure.mysql.po.SysNotice;
+import org.dromara.system.infrastructure.mysql.po.SysUser;
 import org.dromara.system.domain.bo.SysNoticeBo;
 import org.dromara.system.domain.vo.SysNoticeVo;
 import org.dromara.system.domain.vo.SysUserVo;
-import org.dromara.system.mapper.SysNoticeMapper;
-import org.dromara.system.mapper.SysUserMapper;
+import org.dromara.system.infrastructure.mysql.mapper.SysNoticeMapper;
+import org.dromara.system.infrastructure.mysql.mapper.SysUserMapper;
 import org.dromara.system.application.service.ISysNoticeService;
 import org.springframework.stereotype.Service;
 

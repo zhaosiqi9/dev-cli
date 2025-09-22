@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 import org.dromara.common.core.validate.AddGroup;
 import org.dromara.common.core.validate.EditGroup;
 import org.dromara.common.tenant.core.TenantEntity;
-import org.dromara.system.domain.SysSocial;
+import org.dromara.system.infrastructure.mysql.po.SysSocial;
 
 /**
  * 社会化关系业务对象 sys_social

@@ -7,7 +7,7 @@ import lombok.Data;
 import org.dromara.common.core.constant.SystemConstants;
 import org.dromara.common.excel.annotation.ExcelDictFormat;
 import org.dromara.common.excel.convert.ExcelDictConvert;
-import org.dromara.system.domain.SysRole;
+import org.dromara.system.infrastructure.mysql.po.SysRole;
 
 import java.io.Serial;
 import java.io.Serializable;

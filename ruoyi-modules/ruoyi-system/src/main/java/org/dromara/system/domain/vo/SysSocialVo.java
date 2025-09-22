@@ -2,7 +2,7 @@ package org.dromara.system.domain.vo;
 
 import io.github.linpeilie.annotations.AutoMapper;
 import lombok.Data;
-import org.dromara.system.domain.SysSocial;
+import org.dromara.system.infrastructure.mysql.po.SysSocial;
 
 import java.io.Serial;
 import java.io.Serializable;

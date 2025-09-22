@@ -2,7 +2,7 @@ package org.dromara.system.domain.bo;
 
 import io.github.linpeilie.annotations.AutoMapper;
 import lombok.Data;
-import org.dromara.system.domain.SysLogininfor;
+import org.dromara.system.infrastructure.mysql.po.SysLogininfor;
 
 import java.util.Date;
 import java.util.HashMap;

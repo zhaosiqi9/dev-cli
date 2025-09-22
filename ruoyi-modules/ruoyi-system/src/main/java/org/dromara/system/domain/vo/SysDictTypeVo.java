@@ -4,7 +4,7 @@ import cn.idev.excel.annotation.ExcelIgnoreUnannotated;
 import cn.idev.excel.annotation.ExcelProperty;
 import io.github.linpeilie.annotations.AutoMapper;
 import lombok.Data;
-import org.dromara.system.domain.SysDictType;
+import org.dromara.system.infrastructure.mysql.po.SysDictType;
 
 import java.io.Serial;
 import java.io.Serializable;

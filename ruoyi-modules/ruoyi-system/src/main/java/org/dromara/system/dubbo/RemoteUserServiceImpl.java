@@ -25,13 +25,13 @@ import org.dromara.system.api.model.PostDTO;
 import org.dromara.system.api.model.RoleDTO;
 import org.dromara.system.api.model.XcxLoginUser;
 import org.dromara.system.application.service.*;
-import org.dromara.system.domain.*;
 import org.dromara.system.domain.bo.SysUserBo;
 import org.dromara.system.domain.vo.SysDeptVo;
 import org.dromara.system.domain.vo.SysPostVo;
 import org.dromara.system.domain.vo.SysRoleVo;
 import org.dromara.system.domain.vo.SysUserVo;
-import org.dromara.system.mapper.*;
+import org.dromara.system.infrastructure.mysql.mapper.*;
+import org.dromara.system.infrastructure.mysql.po.*;
 import org.springframework.stereotype.Service;
 
 import java.util.*;

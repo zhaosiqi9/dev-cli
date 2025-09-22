@@ -10,7 +10,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import org.dromara.common.core.constant.RegexConstants;
 import org.dromara.common.mybatis.core.domain.BaseEntity;
-import org.dromara.system.domain.SysMenu;
+import org.dromara.system.infrastructure.mysql.po.SysMenu;
 
 /**
  * 菜单权限业务对象 sys_menu

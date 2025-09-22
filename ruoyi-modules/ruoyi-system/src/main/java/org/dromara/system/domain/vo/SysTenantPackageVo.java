@@ -6,7 +6,7 @@ import io.github.linpeilie.annotations.AutoMapper;
 import lombok.Data;
 import org.dromara.common.excel.annotation.ExcelDictFormat;
 import org.dromara.common.excel.convert.ExcelDictConvert;
-import org.dromara.system.domain.SysTenantPackage;
+import org.dromara.system.infrastructure.mysql.po.SysTenantPackage;
 
 import java.io.Serial;
 import java.io.Serializable;

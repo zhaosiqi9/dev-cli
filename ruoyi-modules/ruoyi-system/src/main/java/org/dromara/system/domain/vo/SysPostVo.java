@@ -8,7 +8,7 @@ import org.dromara.common.excel.annotation.ExcelDictFormat;
 import org.dromara.common.excel.convert.ExcelDictConvert;
 import org.dromara.common.translation.annotation.Translation;
 import org.dromara.common.translation.constant.TransConstant;
-import org.dromara.system.domain.SysPost;
+import org.dromara.system.infrastructure.mysql.po.SysPost;
 
 import java.io.Serial;
 import java.io.Serializable;

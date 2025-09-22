@@ -5,10 +5,10 @@ import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import lombok.RequiredArgsConstructor;
 import org.dromara.common.core.utils.MapstructUtils;
 import org.dromara.common.core.utils.StringUtils;
-import org.dromara.system.domain.SysSocial;
+import org.dromara.system.infrastructure.mysql.po.SysSocial;
 import org.dromara.system.domain.bo.SysSocialBo;
 import org.dromara.system.domain.vo.SysSocialVo;
-import org.dromara.system.mapper.SysSocialMapper;
+import org.dromara.system.infrastructure.mysql.mapper.SysSocialMapper;
 import org.dromara.system.application.service.ISysSocialService;
 import org.springframework.stereotype.Service;
 
