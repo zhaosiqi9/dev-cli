@@ -7,7 +7,7 @@ import org.dromara.system.api.dubbo.RemoteTenantService;
 import org.dromara.system.api.domain.vo.RemoteTenantVo;
 import org.dromara.system.domain.bo.SysTenantBo;
 import org.dromara.system.domain.vo.SysTenantVo;
-import org.dromara.system.service.ISysTenantService;
+import org.dromara.system.application.service.ISysTenantService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

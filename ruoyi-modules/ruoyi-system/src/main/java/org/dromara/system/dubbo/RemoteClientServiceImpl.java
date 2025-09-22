@@ -6,7 +6,7 @@ import org.dromara.common.core.utils.MapstructUtils;
 import org.dromara.system.api.dubbo.RemoteClientService;
 import org.dromara.system.api.domain.vo.RemoteClientVo;
 import org.dromara.system.domain.vo.SysClientVo;
-import org.dromara.system.service.ISysClientService;
+import org.dromara.system.application.service.ISysClientService;
 import org.springframework.stereotype.Service;
 
 /**

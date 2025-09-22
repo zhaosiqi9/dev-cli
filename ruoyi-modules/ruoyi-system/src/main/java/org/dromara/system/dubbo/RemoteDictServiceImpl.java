@@ -8,7 +8,7 @@ import org.dromara.system.api.domain.vo.RemoteDictDataVo;
 import org.dromara.system.api.domain.vo.RemoteDictTypeVo;
 import org.dromara.system.domain.vo.SysDictDataVo;
 import org.dromara.system.domain.vo.SysDictTypeVo;
-import org.dromara.system.service.ISysDictTypeService;
+import org.dromara.system.application.service.ISysDictTypeService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

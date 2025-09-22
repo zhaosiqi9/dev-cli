@@ -8,8 +8,8 @@ import org.dromara.system.api.domain.bo.RemoteLogininforBo;
 import org.dromara.system.api.domain.bo.RemoteOperLogBo;
 import org.dromara.system.domain.bo.SysLogininforBo;
 import org.dromara.system.domain.bo.SysOperLogBo;
-import org.dromara.system.service.ISysLogininforService;
-import org.dromara.system.service.ISysOperLogService;
+import org.dromara.system.application.service.ISysLogininforService;
+import org.dromara.system.application.service.ISysOperLogService;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 

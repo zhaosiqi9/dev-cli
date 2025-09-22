@@ -6,7 +6,7 @@ import org.apache.dubbo.config.annotation.DubboService;
 import org.dromara.system.api.dubbo.RemoteDeptService;
 import org.dromara.system.api.domain.vo.RemoteDeptVo;
 import org.dromara.system.domain.vo.SysDeptVo;
-import org.dromara.system.service.ISysDeptService;
+import org.dromara.system.application.service.ISysDeptService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

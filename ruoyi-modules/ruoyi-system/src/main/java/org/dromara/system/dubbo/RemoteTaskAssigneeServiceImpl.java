@@ -17,10 +17,10 @@ import org.dromara.system.domain.vo.SysDeptVo;
 import org.dromara.system.domain.vo.SysPostVo;
 import org.dromara.system.domain.vo.SysRoleVo;
 import org.dromara.system.domain.vo.SysUserVo;
-import org.dromara.system.service.ISysDeptService;
-import org.dromara.system.service.ISysPostService;
-import org.dromara.system.service.ISysRoleService;
-import org.dromara.system.service.ISysUserService;
+import org.dromara.system.application.service.ISysDeptService;
+import org.dromara.system.application.service.ISysPostService;
+import org.dromara.system.application.service.ISysRoleService;
+import org.dromara.system.application.service.ISysUserService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

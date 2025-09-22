@@ -19,8 +19,8 @@ import org.dromara.common.satoken.utils.LoginHelper;
 import org.dromara.system.domain.bo.SysUserBo;
 import org.dromara.system.domain.vo.SysUserImportVo;
 import org.dromara.system.domain.vo.SysUserVo;
-import org.dromara.system.service.ISysConfigService;
-import org.dromara.system.service.ISysUserService;
+import org.dromara.system.application.service.ISysConfigService;
+import org.dromara.system.application.service.ISysUserService;
 
 import java.util.List;
 

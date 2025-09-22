@@ -8,7 +8,7 @@ import org.dromara.system.api.domain.bo.RemoteSocialBo;
 import org.dromara.system.api.domain.vo.RemoteSocialVo;
 import org.dromara.system.domain.bo.SysSocialBo;
 import org.dromara.system.domain.vo.SysSocialVo;
-import org.dromara.system.service.ISysSocialService;
+import org.dromara.system.application.service.ISysSocialService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
