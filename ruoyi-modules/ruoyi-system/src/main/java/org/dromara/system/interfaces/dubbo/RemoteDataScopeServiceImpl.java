@@ -1,4 +1,4 @@
-package org.dromara.system.dubbo;
+package org.dromara.system.interfaces.dubbo;
 
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.convert.Convert;
